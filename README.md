@@ -1,5 +1,5 @@
  <h1>Dashboard de Acompanhamento de RH</h1>
-<img src="/assets/preview.png" alt="Preview do Dashboard do RH" width="800" height="500">
+<img src="/assets/preview.png" alt="Preview do Dashboard do RH" width="900" height="500">
 
   <h2>Objetivo</h2>
   <p>O objetivo deste dashboard é fornecer uma visão geral de indicadores do RH da empresa, incluindo:</p>
